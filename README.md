@@ -304,6 +304,8 @@ Bootstrap. (2022). Bootstrap (Version 5.2.3) [CSS framework]. Retrieved from htt
 
 Bulma. (2025). Bulma CSS Framework (Version 1.0.2). Retrieved from https://unpkg.com/bulma@1.0.2/css/bulma.min.css
 
+Fonticons, Inc. (2019). Font Awesome 5.4.1 [Software]. https://fontawesome.com
+
 Kadlec, J. (2023). DataPlotly (Version 4.2) [QGIS Plugin]. Retrieved from https://plugins.qgis.org/plugins/DataPlotly/
 
 Mapbox. (2023). Mapbox Maps SDK (Version 3.0). Mapbox, Inc. https://www.mapbox.com
