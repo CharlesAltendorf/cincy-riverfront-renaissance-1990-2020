@@ -214,9 +214,9 @@ Business View Publishing. (2025, Jan 2). Cincinnati, Ohio: A business view [Webp
 
 ## Interviews
 
-Schindler, B. (2025, March 10). Interview with Bob Schindler [Audio interview]. Podbean. UR
+Schindler, B. (2025, March 10). Interview with Bob Schindler [Audio interview]. Podbean. https://www.podbean.com/ew/pb-3b559-18564a2
 
-Schult, B. (2025, March 10). Interview with Bill Schult [Audio interview]. Podbean. UR
+Schult, B. (2025, March 10). Interview with Bill Schult [Audio interview]. Podbean. https://www.podbean.com/eas/pb-jym4n-185c9a6
 
 ## Literature
 
