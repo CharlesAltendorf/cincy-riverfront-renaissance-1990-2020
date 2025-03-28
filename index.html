@@ -135,6 +135,19 @@
 </head>
 
 <body>
+  <div id="splash" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+      <!-- Any other Bulma elements you want -->
+
+      <h1 class="title">Welcome to Cincinnati’s Riverfront Renaissance!</h1>
+      <p>Click the red buildings for popups.</p>
+      <p>Use the slider to filter by year.</p>
+      <p>Explore the map and enjoy!</p>
+
+      <button class="modal-close is-large" aria-label="close"></button>
+    </div>
+  </div>
   <!-- Navigation bar -->
   <nav class="navbar is-link is-fixed-top">
     <div class="navbar-brand">
@@ -349,6 +362,30 @@
         });
       }
     });
+
+    displayModalFirstVisit()
+
+    function displayModalFirstVisit() {
+      if (sessionStorage.getItem("visited_cincinnati")) {
+        // If data is in sessionStorage, do nothing
+        console.log('Visitor has a session open');
+      } else {
+        // If no data, store it in sessionStorage
+        console.log('Visitor has a new session');
+        const modal = document.querySelector('#splash')
+        modal.classList.add('is-active');
+        const background = document.querySelector('#splash .modal-background')
+        background.addEventListener('click', function () {
+          // Hide the modal when the background is clicked
+          modal.classList.remove('is-active');
+          console.log('Modal closed');
+          sessionStorage.setItem("visited_cincinnati", 'true');
+        });
+      }
+      // Store data in sessionStorage
+      sessionStorage.setItem("visited_cincinnati", 'true');
+    }
+
   </script>
 
 </body>
