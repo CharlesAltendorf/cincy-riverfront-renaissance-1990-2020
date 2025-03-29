@@ -21,6 +21,10 @@
       --bulma-font-family: 'Open Sans', sans-serif;
     }
 
+    .hero {
+      background-color: #2c2b2b !important;
+    }
+
     #map {
       max-width: 100%;
       width: 100vw;
@@ -51,8 +55,12 @@
       font-weight: bold;
     }
 
+    .navbar {
+      background-color: #2c2b2b !important;
+    }
+
     .navbar-burger {
-      background-color: #C6011F;
+      background-color: #2c2b2b;
       border-radius: 4px;
       padding: 10px;
       transition: background-color 0.3s ease, box-shadow 0.3s ease;
@@ -61,12 +69,16 @@
     }
 
     .navbar-burger:hover {
-      background-color: #2759a5;
-      box-shadow: 0 0 10px rgba(50, 115, 220, 0.7);
+      background-color: #C6011F;
+      box-shadow: 0 0 10px #2c2b2b;
     }
 
     .navbar-burger span {
       background-color: white !important;
+    }
+
+    .navbar-menu {
+      background-color: #2c2b2b !important;
     }
 
     /* popups */
@@ -346,7 +358,7 @@
         'source-layer': 'Tract265-0rnrks', // Replace with the correct layer name if necessary
         paint: {
           'line-color': '#FF0000',
-          'line-width': 12
+          'line-width': 12,
         }
       });
 
