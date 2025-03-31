@@ -165,6 +165,14 @@ The following steps were taken to process the audio files:
 4. Upload the audio to Podbean for podcast distribution  
    ![Podbean](pictures/Podbean.png)
 
+### Interview Word Clouds
+
+To enhance the visual appeal of the splash page, interview transcripts were processed to generate word clouds that highlight key themes. The transcripts were exported from Microsoft Teams as text files and analyzed using an online word cloud generation tool (WordClouds.com). Common words such as interviewee names and filler words were removed to focus on meaningful phrases that capture the essence of the discussions.
+
+The resulting word clouds provide a visual summary of recurring topics and themes from the interviews, offering an engaging way to present qualitative data on the splash page.
+
+   ![Transcripts](pictures/Transcript.png)
+   ![BobSchindlerWordCloud](pictures/BobSchindlerWordCloud.png)
 
 # References
 
@@ -213,6 +221,8 @@ Kalucci. (2020, June 3). Aerial Cincinnati, Ohio 🇺🇸4K Drone Footage [Video
 Business View Publishing. (2025, Jan 2). Cincinnati, Ohio: A business view [Webpage]. Business View Magazine. https://businessviewmagazine.com/cincinnati-ohio/.
 
 ## Interviews
+
+Payne, Tyler. (2025, March 24). Interview with Tyler Paine [Audio interview]. Podbean. https://www.podbean.com/ew/pb-3b559-18564a2
 
 Schindler, B. (2025, March 10). Interview with Bob Schindler [Audio interview]. Podbean. https://www.podbean.com/ew/pb-3b559-18564a2
 
@@ -273,5 +283,7 @@ Microsoft. (2025). Microsoft Teams (Version 1415/24120100221) [Computer software
 Microsoft. (2025). OneDrive [Web application]. Microsoft Corporation. Retrieved March 11, 2025, from https://onedrive.live.com/
 
 Podbean. (n.d.). Podbean: Podcast hosting and monetization platform. Podbean. https://www.podbean.com
+
+WordClouds.com. (2025). Create word clouds. https://www.wordclouds.com/
 
 QGIS Development Team. (2023). QGIS Geographic Information System (Version 3.32.3). Open Source Geospatial Foundation. https://qgis.org
