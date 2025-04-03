@@ -550,10 +550,16 @@
           const popupContent = `
               <div class="popup-fullscreen">
                 <h2 class='title'>${feature.NAME}</h2>
-                <h3 class='subtitle'>Type: ${feature.Type}</h3>
-                <h3 class='subtitle'>Year: ${feature.Year}</h3>
-                <h3 class='subtitle'>${feature.Renovated}</h3>
-                ${feature.Description}<br>
+                <h4>Type: ${feature.Type}</h4>
+                <h4>Year: ${feature.Year}</h4>
+                <h4>${feature.Renovated}</h4>
+                <br>
+                <div>
+                  <h2 class="subtitle has-text-centered has-text-weight-bold">Before:</h2>
+                  <img src = "${feature.Before}" alt="Before view of ${feature.NAME}" class = 'popup-image'>
+                  <h2 class="subtitle has-text-centered has-text-weight-bold">After:</h2>
+                  <img src = "${feature.After}" alt="After view of ${feature.NAME}" class = 'popup-image'>
+                  </div>
                 <a href="${feature.Website}" target="_blank" class="popup-button">
                   <i class="fas fa-external-link-alt"></i> Visit Website
                 </a>                
