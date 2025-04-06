@@ -220,6 +220,47 @@ Kalucci. (2020, June 3). Aerial Cincinnati, Ohio 🇺🇸4K Drone Footage [Video
 
 Business View Publishing. (2025, Jan 2). Cincinnati, Ohio: A business view [Webpage]. Business View Magazine. https://businessviewmagazine.com/cincinnati-ohio/.
 
+**4thRaceAfter***
+
+Google. (2024, June). Google Maps Street View: 401 Race Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**4thRaceBefore***
+
+Google. (2011, May). Google Maps Street View: 401 Race Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**4thRaceReserveAfter***
+
+Google. (2024, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**4thRaceReserveBefore***
+
+Google. (2011, May). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**550LytleAfter***
+
+Google. (2024, June). Google Maps Street View: 550 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**550LytleBefore***
+
+Google. (2011, May). Google Maps Street View: 550 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+
+**BanksAfter**
+
+Google. (2024, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**BanksBefore**
+
+Google. (2007, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**CityClubAfter**
+
+Google. (2020, Nov). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**CityClubBefore**
+
+Google. (2020, Nov). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 ## Interviews
 
 Payne, Tyler. (2025, March 24). Interview with Tyler Paine [Audio interview]. Podbean. https://www.podbean.com/ew/pb-yq47i-18679c4
