@@ -192,6 +192,15 @@ Additional datasets were used to generate supporting visualizations but are not 
 
 ## Image Sources
 
+**1931Before**
+
+Yelp. (2014, July 2). Photos for Orchids at Palm Court. Yelp. https://www.yelp.com/biz_photos/orchids-at-palm-court-cincinnati
+
+**1931After**
+
+Planalp, B. (2024, February 23). Downtown's Hilton Netherland Plaza Hotel opens The 1931 restaurant. Cincinnati Business Courier. https://www.bizjournals.com/cincinnati/news/2024/02/23/hilton-netherland-hotel-opens-restaurant-1931.html
+
+
 **1990Airview**
 
 Brand, L. (c. 1990). Aerial view of Cincinnati's riverfront [Color photograph]. Kenton County Public Library. https://facesandplaces.kentonlibrary.org/viewimage.php?i=di42170.
@@ -253,21 +262,61 @@ Google. (2024, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnat
 
 Google. (2007, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**CondadoAfter**
+
+Google. (2024, October). Google Maps Street View: 195 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**CondadoBefore**
+
+Google. (2007, September). Google Maps Street View: 195 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **CityClubAfter**
 
-Google. (2020, Nov). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2020, Nov). Google Maps Street View: 309 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **CityClubBefore**
 
-Google. (2020, Nov). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2020, Nov). Google Maps Street View: 309 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **EdgarAfter**
 
-Google. (2024, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2024, July). Google Maps Street View: 405 Broadway, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
-**EdgarAfter**
+**EdgarBefore**
 
-Google. (2011, May). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2011, May). Google Maps Street View: 405 Broadway, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**EOKitchenAfter**
+
+Google. (2022, July). Google Maps Street View: 56 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**EOKitchenBefore**
+
+Google. (2012, September). Google Maps Street View: 56 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**LoftsatFountainSquareAfter**
+
+Google. (2022, October). Google Maps Street View: 417 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**LoftsatFountainSquareBefore**
+
+Google. (2007, September). Google Maps Street View: 417 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**McFarlandAfter**
+
+Google. (2022, July). Google Maps Street View: 304 McFarland St, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**McFarlandBefore**
+
+Google. (2009, August). Google Maps Street View: 304 McFarland St, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**WilliamsonAfter**
+
+Google. (2024, June). Google Maps Street View: 335 W. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**WilliamsonBefore**
+
+Google. (2007, October). Google Maps Street View: 335 W. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 ## Interviews
 
