@@ -245,6 +245,14 @@ Google. (2024, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Oh
 
 Google. (2011, May). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**4thWalnutAfter***
+
+Google. (2024, October). Google Maps Street View: 36 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**4thWalnutBefore***
+
+Google. (2007, September). Google Maps Street View: 36 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **550LytleAfter***
 
 Google. (2024, June). Google Maps Street View: 550 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -262,13 +270,21 @@ Google. (2024, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnat
 
 Google. (2007, July). Google Maps Street View: 160 Marian Spencer Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
-**CondadoAfter**
+**BetterBlendAfter**
 
-Google. (2024, October). Google Maps Street View: 195 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2024, October). Google Maps Street View: 345 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
-**CondadoBefore**
+**BetterBlendBefore**
 
-Google. (2007, September). Google Maps Street View: 195 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2007, August). Google Maps Street View: 345 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**ChaseSandwichAfter**
+
+Chase's Sandwich Shop. (2025, April 3). Go big or go hungry. [Video]. Facebook. https://www.facebook.com/61575091643502/videos/1925402421595787 
+
+**ChaseSandwichBefore**
+
+Google. (2007, Sep). Google Maps Street View: 300 Main Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **CityClubAfter**
 
@@ -277,6 +293,22 @@ Google. (2020, Nov). Google Maps Street View: 309 Vine Street, Cincinnati, Ohio 
 **CityClubBefore**
 
 Google. (2020, Nov). Google Maps Street View: 309 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**CondadoAfter**
+
+Google. (2024, October). Google Maps Street View: 195 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**CondadoBefore**
+
+Google. (2007, September). Google Maps Street View: 195 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**DukeConventionAfter**
+
+Visit Cincy. (2025). Duke Energy Convention Center. Visit Cincy. https://www.visitcincy.com/meetings/venues/duke-energy-convention-center/
+
+**DukeConventionBefore**
+
+Google. (2007, September). Google Maps Street View: 525 Elm Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **EdgarAfter**
 
@@ -294,6 +326,22 @@ Google. (2022, July). Google Maps Street View: 56 W. Freedom Way, Cincinnati, Oh
 
 Google. (2012, September). Google Maps Street View: 56 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**HolyGrailAfter**
+
+Google. (2024, October). Google Maps Street View: 161 Joe Nuxall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**HolyGrailBefore**
+
+Google. (2007, September). Google Maps Street View: 161 Joe Nuxall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**KittysAfter**
+
+Google. (2024, October). Google Maps Street View: 218 W. 3rd Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**KittysBefore**
+
+Google. (2007, September). Google Maps Street View: 218 W. 3rd Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **LoftsatFountainSquareAfter**
 
 Google. (2022, October). Google Maps Street View: 417 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -302,6 +350,14 @@ Google. (2022, October). Google Maps Street View: 417 Vine Street, Cincinnati, O
 
 Google. (2007, September). Google Maps Street View: 417 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**LotusAfter**
+
+Google. (2024, October). Google Maps Street View: 41 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**LotusBefore**
+
+Google. (2007, September). Google Maps Street View: 41 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **McFarlandAfter**
 
 Google. (2022, July). Google Maps Street View: 304 McFarland St, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -309,6 +365,22 @@ Google. (2022, July). Google Maps Street View: 304 McFarland St, Cincinnati, Ohi
 **McFarlandBefore**
 
 Google. (2009, August). Google Maps Street View: 304 McFarland St, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**MoerleinAfter**
+
+Google. (2024, October). Google Maps Street View: 115 Joe Nuxhall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**MoerleinBefore**
+
+Google. (2011, May). Google Maps Street View: 115 Joe Nuxhall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**ParisBaguetteAfter**
+
+Google. (2024, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**ParisBaguetteBefore**
+
+Google. (2007, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **WilliamsonAfter**
 
