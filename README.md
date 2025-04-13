@@ -1,3 +1,5 @@
+edit version as of 4/11/2025:
+
 # Cincinnati’s Riverfront Renaissance: Tracking Population Growth and Development from 1990 to 2020
 
 # Project Overview  
@@ -23,7 +25,7 @@ Historically, the area struggled. In **1990**, Census Tracts **4 and 6**—which
 
 ![1990 Tract Population Percentage](graphics/1990TractPercentage.png)  
 
-By **2000**, this figure had only risen slightly to **5%**, even as the total population declined to **33,283**. Cincinnati’s leaders recognized the urgent need for change, a sentiment reflected in **Petitt’s work** (to be discussed in the literature review).  
+By **2000**, this figure had only risen slightly to **5%**, even as the total population declined to **33,283**. Cincinnati’s leaders recognized the urgent need for change, a sentiment reflected in **pettit’s work** (to be discussed in the literature review).  
 
 ## Key Redevelopment Efforts  
 
@@ -62,14 +64,14 @@ By **2025**, the area is more bustling than ever.
 
 ## Why This Project Matters  
 
-While previous studies—such as Petitt’s—have examined Cincinnati’s revitalization, this project takes the analysis a step further. By leveraging **interactive digital mapping**, this research aims to create an **immersive experience**, allowing users to explore building changes over time dynamically. This approach will provide a **more engaging and intuitive** way to understand how targeted redevelopment has reshaped the riverfront.  
+While previous studies—such as pettit’s—have examined Cincinnati’s revitalization, this project takes the analysis a step further. By leveraging **interactive digital mapping**, this research aims to create an **immersive experience**, allowing users to explore building changes over time dynamically. This approach will provide a **more engaging and intuitive** way to understand how targeted redevelopment has reshaped the riverfront.  
 
 This project is not just about numbers or buildings—it’s about the **reclamation of urban space** and the **people who now call this revitalized area home**. Through this study, I hope to highlight **how cities can successfully reverse decline** and create **thriving, livable environments for future generations**.  
 
 # Literature Review
 
 ## Professional Articles
-**Duran, et al (2021)** examined seven Spanish urban river environments, analyzing how public spaces, commercial activities, and industrial uses interact with the riverfront. The authors develop a classification model to assess the effectiveness of these interactions, considering factors such as accessibility, ecological impact, and economic activity. The research is particularly relevant as some of the cities studied are similar in size to Cincinnati, providing valuable insights into the evolving relationship between urban spaces, industry, and riverfront development.
+**Duran, et al (2021)** examined seven Spanish urban river environments, analyzing how public spaces, commercial activities, and industrial uses interact with the riverfront. The authors develop a classification model to assess the effectiveness of these interactions, considering factors such as accessibility, ecological impact, and economic activity. Some basic final conclusions were that hardscapes limit public interaction with the water and may reduce natural flood barriers.  Over time ingueniety may be slowly improving access. The research is particularly relevant as some of the cities studied are similar in size to Cincinnati, providing valuable insights into the evolving relationship between urban spaces, industry, and riverfront development.
 
 **Pinto, et al (2020)** analyzed riverfront projects in Tbilisi, Ipswich, London, Ponte de Sor, and Houston, highlighting common pitfalls in riverfront development. The authors identify five main reasons projects fail: poor location, inadequate budget, mismatched programming, bad timing, and inappropriate design choices. This framework provides a useful lens for evaluating Cincinnati’s riverfront growth, which has largely succeeded by selecting the right location, programming, and timing. Applying these criteria could also help assess remaining challenges or areas for further improvement in Cincinnati’s riverfront development.
 
@@ -81,7 +83,7 @@ This framework offers an intriguing lens through which to examine Cincinnati’s
 
 **Pettit (2019)** provides a comprehensive examination of Cincinnati’s evolving relationship with the Ohio Riverfront, spanning from the 1790s to the present day. He identifies key turning points in the early and late 1900s, emphasizing how the city gradually distanced itself from its river-based identity. At one point, he even questions whether Cincinnati can still be considered a "river city" at all.
 A major focus of Pettit’s analysis is how infrastructure redevelopment has shaped power dynamics in the city. He argues that the reshaping of Cincinnati’s riverfront forces elites to engage with a broader community, creating new conversations that—despite some tensions—have led to incremental improvements for the public.
-While this dissertation offers depth and strong historical context, it lacks visual storytelling elements that could make its insights more engaging to a broader audience. The absence of maps, diagrams, or other geographic visualizations makes it harder to grasp the spatial impact of these transformations. However, Pettit does a better job than many studies at addressing the movement of people, rather than just focusing on infrastructure or economic shifts.
+While this dissertation offers depth and strong historical context, it lacks more engaging visual storytelling elements that could make its insights more engaging to a broader audience. The absence of maps, diagrams, or other geographic visualizations makes it harder to grasp the spatial impact of these transformations. However, Pettit does a better job than many studies at addressing the movement of people, rather than just focusing on infrastructure or economic shifts.
 This work provides an important foundation, but adding a mapping component could make the revitalization of Cincinnati’s riverfront more tangible. Interactive visual aids could illustrate the population return, the central theme of my project.
 
 ## Similar Projects
@@ -165,14 +167,20 @@ The following steps were taken to process the audio files:
 4. Upload the audio to Podbean for podcast distribution  
    ![Podbean](pictures/Podbean.png)
 
-### Interview Word Clouds
+### Interview Quotes
 
-To enhance the visual appeal of the splash page, interview transcripts were processed to generate word clouds that highlight key themes. The transcripts were exported from Microsoft Teams as text files and analyzed using an online word cloud generation tool (WordClouds.com). Common words such as interviewee names and filler words were removed to focus on meaningful phrases that capture the essence of the discussions.
-
-The resulting word clouds provide a visual summary of recurring topics and themes from the interviews, offering an engaging way to present qualitative data on the splash page.
+To enhance the visual appeal of the splash page, interview transcripts were extracted from university teams account recordings and meaingful quotes were found.
 
    ![Transcripts](pictures/Transcript.png)
-   ![BobSchindlerWordCloud](pictures/BobSchindlerWordCloud.png)
+
+Statements that stuck with me were:
+
+1. Bob Schindler - "I think Smale Park was a bigger effect than the banks was.  Because the banks, They were still a little bit away from the river itself. Having a small park down there that overlooks the river and runs all the way up and down. You can you can take a walk for a couple 3 miles along the riverfront now."
+
+2. Bill Schult - “My biggest memory of that time was actually watching Monday Night Football and the Bengals were on it,probably in like 2003. And you know, to this day on Monday Night Football on the broadcast, they do like kind of shots from around the city of just different street corners or what have you, to see what sort of night life is going on. And I remember the announcers making a joke because there was no one on the streets.”
+
+3. Tyler Paine - "For example, like I know the banks, you know it. It underwent a lot over a decade ago.  But even recently, like. Well, like, that's just like a popular hangout area. You know, recreation area, drinking area, even over the last like probably five or six years, it's seen a ton of development."
+
 
 # References
 
@@ -278,6 +286,14 @@ Google. (2024, October). Google Maps Street View: 345 W. 4th Street, Cincinnati,
 
 Google. (2007, August). Google Maps Street View: 345 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**BlindPigAfter**
+
+Google. (2024, November). Google Maps Street View: 24 W. Third Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**BlindPigBefore**
+
+Google. (2009, August). Google Maps Street View: 24 W. Third Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **ChaseSandwichAfter**
 
 Chase's Sandwich Shop. (2025, April 3). Go big or go hungry. [Video]. Facebook. https://www.facebook.com/61575091643502/videos/1925402421595787 
@@ -310,6 +326,14 @@ Visit Cincy. (2025). Duke Energy Convention Center. Visit Cincy. https://www.vis
 
 Google. (2007, September). Google Maps Street View: 525 Elm Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**DeeperRootsAfter**
+
+Google. (2024, October). Google Maps Street View: 338 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**DeeperRootsBefore**
+
+Google. (2007, August). Google Maps Street View: 338 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **EdgarAfter**
 
 Google. (2024, July). Google Maps Street View: 405 Broadway, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -325,6 +349,14 @@ Google. (2022, July). Google Maps Street View: 56 W. Freedom Way, Cincinnati, Oh
 **EOKitchenBefore**
 
 Google. (2012, September). Google Maps Street View: 56 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**FilsonAfter**
+
+Google. (2024, October). Google Maps Street View: 338 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**FilsonBefore**
+
+Google. (2011, September). Google Maps Street View: 338 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **HolyGrailAfter**
 
@@ -350,13 +382,25 @@ Google. (2022, October). Google Maps Street View: 417 Vine Street, Cincinnati, O
 
 Google. (2007, September). Google Maps Street View: 417 Vine Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**LolasAfter**
+
+Google. (2024, November). Google Maps Street View: 24 W. Third Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**LolasBefore**
+
+Google. (2009, August). Google Maps Street View: 24 W. Third Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **LotusAfter**
 
 Google. (2024, October). Google Maps Street View: 41 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **LotusBefore**
 
-Google. (2007, September). Google Maps Street View: 41 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+Google. (2007, September). Google Maps Street View: 138 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**Love4thAfter**
+
+Google. (2024, June). Google Maps Street View: 138 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **McFarlandAfter**
 
@@ -374,6 +418,22 @@ Google. (2024, October). Google Maps Street View: 115 Joe Nuxhall Way, Cincinnat
 
 Google. (2011, May). Google Maps Street View: 115 Joe Nuxhall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**NationAfter**
+
+Google. (2024, November). Google Maps Street View: 175 Joe Nuxhall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**NationBefore**
+
+Google. (2007, September). Google Maps Street View: 175 Joe Nuxhall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**OverVineAfter**
+
+Google. (2018, May). Google Maps Street View: 21 E. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**OverVineBefore**
+
+Google. (2007, September). Google Maps Street View: 21 E. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
 **ParisBaguetteAfter**
 
 Google. (2024, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -381,6 +441,54 @@ Google. (2024, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Oh
 **ParisBaguetteBefore**
 
 Google. (2007, June). Google Maps Street View: 105 W. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**RedLeprechaunAfter**
+
+Google. (2025, March). Red Leprechaun Irish Pub [Street View]. Google Maps. Retrieved April 11, 2025, from https://www.google.com/maps/uv?pb=!1s0x8841b199ee3c6851%3A0x6098a6e04a516d5b!3m1!7e115!4s%2Fmaps%2Fplace%2Fred%2Bleprechaun%2Birish%2Bpub%2F%4039.0968603%2C-84.5125106%2C3a%2C75y%2C6.14h%2C90t%2Fdata%3D*213m4*211e1*213m2*211skdg0YreFua9bxcIagm_HMQ*212e0*214m2*213m1*211s0x8841b199ee3c6851%3A0x6098a6e04a516d5b%3Fsa%3DX%26ved%3D2ahUKEwjRu5WYwdGMAxWvRjABHQXQOzAQpx96BAgMEAA!5sred%20leprechaun%20irish%20pub%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sCIHM0ogKEICAgMDw5IiZrQE&cr=le_a7&hl=en&ved=1t%3A206134&ictx=111
+
+**RedLeprechaunBefore**
+
+Google. (2007, June). Google Maps Street View: 20 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**RedRoostAfter**
+
+Red Roost Tavern. (2022, October 26). Photo of Dining Room [Photograph]. Facebook. Retrieved April 11, 2025, from https://www.facebook.com/photo/?fbid=493744702770783&set=a.493744679437452
+
+**RedRoostBefore**
+
+Google. (2007, October). Google Maps Street View: 151 W. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**RuthsChrisAfter**
+
+Google. (2024, July). Google Maps Street View: 100 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**RuthsChrisBefore**
+
+Google. (2009, Aug). Google Maps Street View: 100 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**SomethingtoWineAboutAfter**
+
+Google. (2024, June). Google Maps Street View: 136 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**SomethingtoWineAboutBefore**
+
+Google. (2011, May). Google Maps Street View: 136 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**SubitoAfter**
+
+Google. (2022, July). Google Maps Street View: 311 Pike Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**SubitoBefore**
+
+Google. (2012, June). Google Maps Street View: 311 Pike Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**TasteofBelgiumAfter**
+
+Google. (2020, November). Google Maps Street View: 16 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**TasteofBelgiumBefore**
+
+Google. (2012, September). Google Maps Street View: 16 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
 **WilliamsonAfter**
 
@@ -400,7 +508,7 @@ Schult, B. (2025, March 10). Interview with Bill Schult [Audio interview]. Podbe
 
 ## Literature
 
-### Peer Reviewed Techonologies Articles
+### Peer Reviewed Technologies Articles
 Balla, D., & Gede, M. (2024). Beautiful thematic maps in Leaflet with automatic data classification. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-4/W12, 3–10. https://doi.org/10.5194/isprs-archives-XLVIII-4-W12-2024-3-2024
 
 DataPlotly. (n.d.). Introduction. Read the Docs. Retrieved February 8, 2025, from https://dataplotly-docs.readthedocs.io/en/latest/intro.html
@@ -429,7 +537,7 @@ Ride with GPS. (April 15, 2020). Route 32362459. Retrieved February 3, 2025, fro
 
 Site-Design. (n.d.). Map. Site-Design. https://www.site-design.com/map/
 
-Topeka Riverfront Activation Plan. (n.d.). ArcGIS StoryMaps. Retrieved February 3, 2025, from https://storymaps.arcgis.com/stories/
+Topeka Riverfront Activation Plan. (n.d.). ArcGIS StoryMaps. Retrieved February 3, 2025, from https://storymaps.arcgis.com/stories/8d614bcbc0364aaf94d4894aeffad3d5
 
 
 ## Technologies
