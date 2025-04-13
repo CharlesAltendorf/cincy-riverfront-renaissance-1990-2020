@@ -25,7 +25,7 @@ Historically, the area struggled. In **1990**, Census Tracts **4 and 6**—which
 
 ![1990 Tract Population Percentage](graphics/1990TractPercentage.png)  
 
-By **2000**, this figure had only risen slightly to **5%**, even as the total population declined to **33,283**. Cincinnati’s leaders recognized the urgent need for change, a sentiment reflected in **Petitt’s work** (to be discussed in the literature review).  
+By **2000**, this figure had only risen slightly to **5%**, even as the total population declined to **33,283**. Cincinnati’s leaders recognized the urgent need for change, a sentiment reflected in **pettit’s work** (to be discussed in the literature review).  
 
 ## Key Redevelopment Efforts  
 
@@ -64,14 +64,14 @@ By **2025**, the area is more bustling than ever.
 
 ## Why This Project Matters  
 
-While previous studies—such as Petitt’s—have examined Cincinnati’s revitalization, this project takes the analysis a step further. By leveraging **interactive digital mapping**, this research aims to create an **immersive experience**, allowing users to explore building changes over time dynamically. This approach will provide a **more engaging and intuitive** way to understand how targeted redevelopment has reshaped the riverfront.  
+While previous studies—such as pettit’s—have examined Cincinnati’s revitalization, this project takes the analysis a step further. By leveraging **interactive digital mapping**, this research aims to create an **immersive experience**, allowing users to explore building changes over time dynamically. This approach will provide a **more engaging and intuitive** way to understand how targeted redevelopment has reshaped the riverfront.  
 
 This project is not just about numbers or buildings—it’s about the **reclamation of urban space** and the **people who now call this revitalized area home**. Through this study, I hope to highlight **how cities can successfully reverse decline** and create **thriving, livable environments for future generations**.  
 
 # Literature Review
 
 ## Professional Articles
-**Duran, et al (2021)** examined seven Spanish urban river environments, analyzing how public spaces, commercial activities, and industrial uses interact with the riverfront. The authors develop a classification model to assess the effectiveness of these interactions, considering factors such as accessibility, ecological impact, and economic activity. The research is particularly relevant as some of the cities studied are similar in size to Cincinnati, providing valuable insights into the evolving relationship between urban spaces, industry, and riverfront development.
+**Duran, et al (2021)** examined seven Spanish urban river environments, analyzing how public spaces, commercial activities, and industrial uses interact with the riverfront. The authors develop a classification model to assess the effectiveness of these interactions, considering factors such as accessibility, ecological impact, and economic activity. Some basic final conclusions were that hardscapes limit public interaction with the water and may reduce natural flood barriers.  Over time ingueniety may be slowly improving access. The research is particularly relevant as some of the cities studied are similar in size to Cincinnati, providing valuable insights into the evolving relationship between urban spaces, industry, and riverfront development.
 
 **Pinto, et al (2020)** analyzed riverfront projects in Tbilisi, Ipswich, London, Ponte de Sor, and Houston, highlighting common pitfalls in riverfront development. The authors identify five main reasons projects fail: poor location, inadequate budget, mismatched programming, bad timing, and inappropriate design choices. This framework provides a useful lens for evaluating Cincinnati’s riverfront growth, which has largely succeeded by selecting the right location, programming, and timing. Applying these criteria could also help assess remaining challenges or areas for further improvement in Cincinnati’s riverfront development.
 
@@ -83,7 +83,7 @@ This framework offers an intriguing lens through which to examine Cincinnati’s
 
 **Pettit (2019)** provides a comprehensive examination of Cincinnati’s evolving relationship with the Ohio Riverfront, spanning from the 1790s to the present day. He identifies key turning points in the early and late 1900s, emphasizing how the city gradually distanced itself from its river-based identity. At one point, he even questions whether Cincinnati can still be considered a "river city" at all.
 A major focus of Pettit’s analysis is how infrastructure redevelopment has shaped power dynamics in the city. He argues that the reshaping of Cincinnati’s riverfront forces elites to engage with a broader community, creating new conversations that—despite some tensions—have led to incremental improvements for the public.
-While this dissertation offers depth and strong historical context, it lacks visual storytelling elements that could make its insights more engaging to a broader audience. The absence of maps, diagrams, or other geographic visualizations makes it harder to grasp the spatial impact of these transformations. However, Pettit does a better job than many studies at addressing the movement of people, rather than just focusing on infrastructure or economic shifts.
+While this dissertation offers depth and strong historical context, it lacks more engaging visual storytelling elements that could make its insights more engaging to a broader audience. The absence of maps, diagrams, or other geographic visualizations makes it harder to grasp the spatial impact of these transformations. However, Pettit does a better job than many studies at addressing the movement of people, rather than just focusing on infrastructure or economic shifts.
 This work provides an important foundation, but adding a mapping component could make the revitalization of Cincinnati’s riverfront more tangible. Interactive visual aids could illustrate the population return, the central theme of my project.
 
 ## Similar Projects
@@ -167,14 +167,20 @@ The following steps were taken to process the audio files:
 4. Upload the audio to Podbean for podcast distribution  
    ![Podbean](pictures/Podbean.png)
 
-### Interview Word Clouds
+### Interview Quotes
 
-To enhance the visual appeal of the splash page, interview transcripts were processed to generate word clouds that highlight key themes. The transcripts were exported from Microsoft Teams as text files and analyzed using an online word cloud generation tool (WordClouds.com). Common words such as interviewee names and filler words were removed to focus on meaningful phrases that capture the essence of the discussions.
-
-The resulting word clouds provide a visual summary of recurring topics and themes from the interviews, offering an engaging way to present qualitative data on the splash page.
+To enhance the visual appeal of the splash page, interview transcripts were extracted from university teams account recordings and meaingful quotes were found.
 
    ![Transcripts](pictures/Transcript.png)
-   ![BobSchindlerWordCloud](pictures/BobSchindlerWordCloud.png)
+
+Statements that stuck with me were:
+
+1. Bob Schindler - "I think Smale Park was a bigger effect than the banks was.  Because the banks, They were still a little bit away from the river itself. Having a small park down there that overlooks the river and runs all the way up and down. You can you can take a walk for a couple 3 miles along the riverfront now."
+
+2. Bill Schult - “My biggest memory of that time was actually watching Monday Night Football and the Bengals were on it,probably in like 2003. And you know, to this day on Monday Night Football on the broadcast, they do like kind of shots from around the city of just different street corners or what have you, to see what sort of night life is going on. And I remember the announcers making a joke because there was no one on the streets.”
+
+3. Tyler Paine - "For example, like I know the banks, you know it. It underwent a lot over a decade ago.  But even recently, like. Well, like, that's just like a popular hangout area. You know, recreation area, drinking area, even over the last like probably five or six years, it's seen a ton of development."
+
 
 # References
 
@@ -502,7 +508,7 @@ Schult, B. (2025, March 10). Interview with Bill Schult [Audio interview]. Podbe
 
 ## Literature
 
-### Peer Reviewed Techonologies Articles
+### Peer Reviewed Technologies Articles
 Balla, D., & Gede, M. (2024). Beautiful thematic maps in Leaflet with automatic data classification. International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-4/W12, 3–10. https://doi.org/10.5194/isprs-archives-XLVIII-4-W12-2024-3-2024
 
 DataPlotly. (n.d.). Introduction. Read the Docs. Retrieved February 8, 2025, from https://dataplotly-docs.readthedocs.io/en/latest/intro.html
@@ -531,7 +537,7 @@ Ride with GPS. (April 15, 2020). Route 32362459. Retrieved February 3, 2025, fro
 
 Site-Design. (n.d.). Map. Site-Design. https://www.site-design.com/map/
 
-Topeka Riverfront Activation Plan. (n.d.). ArcGIS StoryMaps. Retrieved February 3, 2025, from https://storymaps.arcgis.com/stories/
+Topeka Riverfront Activation Plan. (n.d.). ArcGIS StoryMaps. Retrieved February 3, 2025, from https://storymaps.arcgis.com/stories/8d614bcbc0364aaf94d4894aeffad3d5
 
 
 ## Technologies
