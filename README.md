@@ -1,4 +1,4 @@
-edit version as of 4/11/2025:
+edit version as of 4/13/2025:
 
 # Cincinnati’s Riverfront Renaissance: Tracking Population Growth and Development from 1990 to 2020
 
@@ -237,6 +237,18 @@ Kalucci. (2020, June 3). Aerial Cincinnati, Ohio 🇺🇸4K Drone Footage [Video
 
 Business View Publishing. (2025, Jan 2). Cincinnati, Ohio: A business view [Webpage]. Business View Magazine. https://businessviewmagazine.com/cincinnati-ohio/.
 
+**2025CincinnatiFloodingWSmalePark**
+
+The Cincinnati Enquirer. (2025, April 7). See aerial photos of damage in downtown Cincinnati caused by Ohio River flooding [Photograph gallery]. Cincinnati.com. https://www.cincinnati.com/picture-gallery/news/2025/04/07/cincinnati-suffers-damage-from-ohio-river-flooding-see-aerial-photos/82972959007/.
+
+**2025CincinnatiFloodingWideView**
+
+The Cincinnati Enquirer. (2025, April 7). See aerial photos of damage in downtown Cincinnati caused by Ohio River flooding [Photograph gallery]. Cincinnati.com. https://www.cincinnati.com/picture-gallery/news/2025/04/07/cincinnati-suffers-damage-from-ohio-river-flooding-see-aerial-photos/82972959007/.
+
+**2025CincinnatiI471BridgeFire**
+
+The Cincinnati Enquirer. (2025, February 3). See aerial photos of damage in downtown Cincinnati caused by Ohio River flooding [Article]. Cincinnati.com. https://www.cincinnati.com/story/news/crime/2025/02/03/interstate-471-big-mac-bridge-fire-update-cincinnati-newport/78027504007/.
+
 **4thRaceAfter***
 
 Google. (2024, June). Google Maps Street View: 401 Race Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -426,6 +438,10 @@ Google. (2024, November). Google Maps Street View: 175 Joe Nuxhall Way, Cincinna
 
 Google. (2007, September). Google Maps Street View: 175 Joe Nuxhall Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**NBCSportsHeadline**
+
+NBCSports. (2025, April 3). Bengals hint at possibility of relocation — as soon as 2026 [Article]. NBCSports.com.https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bengals-hint-at-possibility-of-relocation-as-soon-as-2026
+
 **OverVineAfter**
 
 Google. (2018, May). Google Maps Street View: 21 E. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -490,6 +506,10 @@ Google. (2020, November). Google Maps Street View: 16 W. Freedom Way, Cincinnati
 
 Google. (2012, September). Google Maps Street View: 16 W. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**WCPOHeadline**
+
+WCPO. (2025, March 13). The Banks turns 25 years old: 9 empty acres, unfulfilled promises and a leadership vacuum [Article]. WCPO.com. https://www.wcpo.com/news/local-news/i-team/the-banks-turns-25-years-old-9-empty-acres-unfulfilled-promises-and-a-leadership-vacuum/.
+
 **WilliamsonAfter**
 
 Google. (2024, June). Google Maps Street View: 335 W. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
@@ -497,6 +517,11 @@ Google. (2024, June). Google Maps Street View: 335 W. Fifth Street, Cincinnati, 
 **WilliamsonBefore**
 
 Google. (2007, October). Google Maps Street View: 335 W. Fifth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**WLWTHeadline**
+
+WLWT. (2025, Jan 22). Trump's infrastructure funding review raises concerns for Brent Spence Bridge project [Article]. WLWT.com.https://www.wlwt.com/article/donald-trump-infrastructure-review-brent-spence-bridge/63515761
+
 
 ## Interviews
 
