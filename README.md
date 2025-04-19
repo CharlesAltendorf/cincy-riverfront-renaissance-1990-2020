@@ -190,9 +190,19 @@ Bulma Templates. (Jul 13, 2023). Personal template. Bulma Templates. Retrieved M
 
 Cincinnati Area Geographic Information System (CAGIS). (March 28, 2018). Building footprints. CAGIS Open Data Portal. Retrieved March 10, 2025, from https://data-cagisportal.opendata.arcgis.com/datasets/c16cf953e9f24695b8b202219b300bcc_6/explore
 
+Cincinnati Area Geographic Information System (CAGIS). (June 9, 2023). FEMA Floodway [Data set]. CAGIS Open Data Portal. Retrieved April 18, 2025, from https://data-cagisportal.opendata.arcgis.com/datasets/2d3a973663144ff082dd4e9187334c0a_6/about
+
+Commonwealth of Kentucky. (December 9, 2016). Kentucky County Polygons [Data set]. KyGeoPortal.  Retrieved April 18, 2025, from https://opengisdata.ky.gov/datasets/ad52760b298b4f2b8879233fecd1acd1_0/explore
+
 Downtown Cincinnati Inc. (2025). Downtown Cincinnati. Retrieved March 10, 2025, from https://downtowncincinnati.com/
 
+IndianaMap. (December 18, 2024). PLSS County Boundaries [Data set]. Retrieved April 18, 2025, from https://www.indianamap.org/datasets/78e1557186ed4a61b1a711cf89aafb50_11/explore
+
+Manns, M. (2007, June). The Cincinnati-Middletown-Wilmington CSA. InContext, 8(6). Indiana Business Research Center, Kelley School of Business, Indiana University. https://www.incontext.indiana.edu/2007/june/6.asp​
+
 Mapbox. (n.d.). 3D buildings layer. Mapbox. Retrieved March 10, 2025, from https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/
+
+Ohio Department of Natural Resources. (November 6, 2024). County Boundaries [Data set]. ODNR GIS Open Data Portal. Retrieved April 18, 2025, from https://gis-odnr.opendata.arcgis.com/documents/810f17675f8542388ba1c5fe5dd70a3c/about
 
 U.S. Census Bureau. (2022). TIGER/Line Shapefiles 2022 [Data set]. U.S. Census Bureau. Retrieved March 10, 2025, from https://www2.census.gov/geo/tiger/TGRGDB22/
 
