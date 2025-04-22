@@ -492,6 +492,9 @@ Google. (2024, July). Google Maps Street View: 100 E. Freedom Way, Cincinnati, O
 
 Google. (2009, Aug). Google Maps Street View: 100 E. Freedom Way, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**Skyscanner Cincinnati**
+Skyscanner. (2023, May 5). Meet Cincinnati: the perfect city for your next U.S. holiday [photograph]. https://www.skyscanner.net/news/why-visit-cincinnati
+
 **SomethingtoWineAboutAfter**
 
 Google. (2024, June). Google Maps Street View: 136 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
