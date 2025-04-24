@@ -12,18 +12,16 @@ This research is deeply personal to me. As a **2007 graduate of Boone County Hig
 
 ## The Growth of Census Tract 265  
 
-Between **2010 and 2020**, Census Tract 265 experienced **remarkable growth**, gaining nearly **1,000 residents**. This boom was fueled by:  
+Between **2010** and **2020**, **Census Tract 265** emerged as a standout zone along the riverfront, adding **1,000** new residents and boosting its share of the riverfront area's population from just **6.86%** to nearly **10%**—a dramatic rise from only **4%** in 1990. This boom was fueled by:  
 
 - **6** new and renovated apartment buildings  
 - **3** condominium complexes  
 - **25** restaurants and bars  
 - A **major convention center renovation** set to open in 2025  
 
-![Population Growth of Tract 265](graphics/265pop20102023.png)  
+<img src="graphics/265pop20102023percent.png" alt="Population Growth of Tract 265" style="width:100%;">
 
 Historically, the area struggled. In **1990**, Census Tracts **4 and 6**—which later merged into Tract 265—accounted for just **4% of the total 39,379 people** living in Cincinnati’s central riverfront area (including Covington and Newport).  
-
-![1990 Tract Population Percentage](graphics/1990TractPercentage.png)  
 
 By **2000**, this figure had only risen slightly to **5%**, even as the total population declined to **33,283**. Cincinnati’s leaders recognized the urgent need for change, a sentiment reflected in **pettit’s work** (to be discussed in the literature review).  
 
@@ -34,17 +32,16 @@ The revitalization of Tract 265 was driven by **two major urban planning initiat
 ### 1. Reconstructing Fort Washington Way  
 This project reduced the highway’s surface footprint, creating a more seamless connection between downtown and the riverfront.  
 
-![Fort Washington Way Reconstruction - 1999](pictures/1999FtWashingtonWayConstruction.jpg)  
+<img src="pictures/1999FtWashingtonWayConstruction.jpg" alt="Fort Washington Way Reconstruction - 1999" style="width:100%;">
 
 ### 2. Demolishing Riverfront Stadium  
 The removal of the stadium opened space for mixed-use developments and improved pedestrian access, particularly for those crossing the **Roebling Suspension Bridge** into Ohio.  
-
-![Riverfront Stadium Demolition - 2002](pictures/2002RiverfrontStadiumDemolition.jpg)  
+ 
+<img src="pictures/2002RiverfrontStadiumDemolition.jpg" alt="Riverfront Stadium Demolition - 2002" style="width:100%;">
 
 By **2010**, Census Tract 265 had grown significantly, now accounting for **6.86% of the total 31,467 residents** in the riverfront area. Aerial images from that time clearly illustrate the **reclaimed urban space**, with the Roebling Bridge now leading into a far more open and accessible downtown core.  
-
-![2010 Tract Population Percentage](graphics/2010TractPercentage.png)  
-![Aerial View - 2010](pictures/2010AirView.jpg)  
+ 
+<img src="pictures/2010AirView.jpg" alt="Aerial View - 2010" style="width:100%;">
 
 As redevelopment continued into **2015**, parking lots were further replaced with **green spaces, apartments, hotels, and entertainment venues**, reinforcing the city’s commitment to mixed-use urban renewal.  
 
@@ -52,15 +49,12 @@ As redevelopment continued into **2015**, parking lots were further replaced wit
 
 By **2020**, despite the onset of COVID-19, the Cincinnati riverfront had cemented itself as a vibrant hub of activity. Aerial views showcase an inviting, walkable space **directly accessible from the Roebling Bridge**.  
 
-![Aerial View - 2020](pictures/2020AirView.jpg)  
+<img src="pictures/2020AirView.jpg" alt="Aerial View - 2020" style="width:100%;"> 
 
-Census data reflects this momentum, with the total riverfront population rising to **32,061**, and Census Tract 265 now comprising **9.97% of the area’s residents**—a nearly **10% share** compared to just 4% in 1990.  
-
-![2020 Tract Population Percentage](graphics/2020TractPercentage.png)  
-
+Census data reflects this momentum, with the total riverfront population rising to **32,061**, and Census Tract 265 now comprising **9.97% of the area’s residents**—a nearly **10% share** compared to just 4% in 1990.    
 By **2025**, the area is more bustling than ever.  
 
-![Aerial View - 2025](pictures/2025AirView.jpeg)  
+<img src="pictures/2025AirView.jpeg" alt="Aerial View - 2025" style="width:100%;">  
 
 ## Why This Project Matters  
 
@@ -131,23 +125,24 @@ To refine the project area, I drew inspiration from the Hamilton County 2000 Cen
 
 I used QGIS with the Data Plotly plugin to create bar graphs, pie charts, and other visualizations for this refined area. Here are two examples of those visualizations:
 
-![Data Plotly 1](pictures/dataplotly1.png)  
-![Data Plotly 2](pictures/dataplotly2.png)
+<img src="pictures/dataplotly1.png" alt="Data Plotly 1" style="width:100%;">
+<img src="pictures/dataplotly2.png" alt="Data Plotly 2" style="width:100%;"> 
 
 ## Developments Layer
 
 The Developments Layer was generated using building footprint data from CAGIS, which I combined with newly constructed or renovated buildings in the tract. Information about these new developments was sourced primarily from the Downtown Cincinnati website, where I filtered for residential and restaurant developments. I cross-referenced the data with online sources to verify the businesses’ existence and opening dates.
 
-![CAGIS Building Footprints](pictures/CAGIS.png)  
-![Developments Layer in QGIS](pictures/DevelopmentslayergenerationQGIS.png)  
-![Downtown Cincinnati Website](pictures/DowntownCincinnati.png)
+<img src="pictures/CAGIS.png" alt="CAGIS Building Footprints" style="width:100%;"> 
+<img src="pictures/DevelopmentslayergenerationQGIS.png" alt="Developments Layer in QGIS" style="width:100%;"> 
+<img src="pictures/DowntownCincinnati.png" alt="Downtown Cincinnati Website" style="width:100%;"> 
+
 
 ## Landing Page with Mapbox Integration
 
 Based on further feedback, I enhanced the main landing page by integrating Mapbox’s **3D Buildings** background layer, creating a more dynamic and interactive experience. I uploaded the developments’ **GeoJSON** file to Mapbox and applied a dark theme for improved contrast. Additionally, I implemented a **slider** to adjust development years, with popups prepared for future use.
 
-![Main Landing Map](pictures/3DMAP.png)  
-![Main Landing Source Code](pictures/sourcecode.png)
+<img src="pictures/3DMAP.png" alt="Main Landing Map" style="width:100%;">
+<img src="pictures/sourcecode.png" alt="Main Landing Source Code" style="width:100%;">  
 
 Initially, I used **Bootstrap** for my landing pages, as it was the framework I was most familiar with during my studies. However, after discussing options with **Boyd**, I explored **Bulma**. I found it intuitive and well-suited for mobile environments, which is essential for modern web development.
 
@@ -158,20 +153,20 @@ In addition to the map and visualizations, I decided to include interviews with 
 
 The following steps were taken to process the audio files:
 
-1. Download the files from OneDrive  
-   ![Teams](pictures/OneDrive.png)
-2. Import the files into Audacity for sound extraction  
-   ![Audacity Import](pictures/AudacityImport.png)
-3. Export the audio as an MP3  
-   ![Audacity Export](pictures/AudacityExport.png)
-4. Upload the audio to Podbean for podcast distribution  
-   ![Podbean](pictures/Podbean.png)
+1. Download the files from OneDrive
+<img src="pictures/OneDrive.png" alt="Teams" style="width:100%;">  
+2. Import the files into Audacity for sound extraction 
+<img src="pictures/AudacityImport.png" alt="Audacity Import" style="width:100%;"> 
+3. Export the audio as an MP3 
+   <img src="pictures/AudacityExport.png" alt="Audacity Export" style="width:100%;">
+4. Upload the audio to Podbean for podcast distribution
+   <img src="pictures/Podbean.png" alt="Podbean" style="width:100%;">  
 
 ### Interview Quotes
 
-To enhance the visual appeal of the splash page, interview transcripts were extracted from university teams account recordings and meaingful quotes were found.
+Interview transcripts were extracted from university teams account recordings and meaingful quotes were found.
 
-   ![Transcripts](pictures/Transcript.png)
+   <img src="pictures/Transcript.png" alt="Transcripts" style="width:100%;">
 
 Statements that stuck with me were:
 
