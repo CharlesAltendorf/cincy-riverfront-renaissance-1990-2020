@@ -130,7 +130,13 @@ I used QGIS with the Data Plotly plugin to create bar graphs, pie charts, and ot
 
 ## Developments Layer
 
-The Developments Layer was generated using building footprint data from CAGIS, which I combined with newly constructed or renovated buildings in the tract. Information about these new developments was sourced primarily from the Downtown Cincinnati website, where I filtered for residential and restaurant developments. I cross-referenced the data with online sources to verify the businesses’ existence and opening dates.
+The Developments Layer attributes were designed to reflect meaningful change over time in the urban landscape, particularly new construction or major renovations since 2010. Each feature in the layer includes the following attributes: name, address, type of development (e.g., residential, restaurant), year completed or opened, and source link for verification. I created this dataset by first compiling a list of developments from the Downtown Cincinnati website, filtering for relevant categories. Then, for each development, I manually searched for supporting details on business directories, real estate listings, and news articles to confirm accuracy and fill in missing data.
+
+Once verified, these entries were geocoded and added to a spreadsheet, which was then imported into QGIS and spatially joined to building footprints from CAGIS. Any mismatches or outdated footprint geometries were adjusted manually to reflect the correct structure.
+
+After feedback from my thesis defense, I narrowed the development types to four main categories: dining, drinks, residential, and events. This allowed for consistent classification and made it possible to assign different colors to each type on the interactive map for clearer user filtering. The final attribute table was exported as GeoJSON and integrated into the Mapbox environment to support visual interactivity and future popup functionality.
+
+The resulting GeoJSON file, which contains the full set of attributes and geometry for the developments layer, is available at [data/developments.geojson](data/developments.geojson).
 
 <img src="pictures/CAGIS.png" alt="CAGIS Building Footprints" style="width:100%;"> 
 <img src="pictures/DevelopmentslayergenerationQGIS.png" alt="Developments Layer in QGIS" style="width:100%;"> 
