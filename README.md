@@ -256,7 +256,7 @@ The Cincinnati Enquirer. (2025, April 7). See aerial photos of damage in downtow
 
 The Cincinnati Enquirer. (2025, April 7). See aerial photos of damage in downtown Cincinnati caused by Ohio River flooding [Photograph gallery]. Cincinnati.com. https://www.cincinnati.com/picture-gallery/news/2025/04/07/cincinnati-suffers-damage-from-ohio-river-flooding-see-aerial-photos/82972959007/.
 
-**2025CincinnatiI471BridgeFire**
+**2024CincinnatiI471BridgeFire**
 
 The Cincinnati Enquirer. (2025, February 3). See aerial photos of damage in downtown Cincinnati caused by Ohio River flooding [Article]. Cincinnati.com. https://www.cincinnati.com/story/news/crime/2025/02/03/interstate-471-big-mac-bridge-fire-update-cincinnati-newport/78027504007/.
 
@@ -292,6 +292,9 @@ Google. (2024, June). Google Maps Street View: 550 E. 4th Street, Cincinnati, Oh
 
 Google. (2011, May). Google Maps Street View: 550 E. 4th Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
 
+**Banks21andUp**
+
+Jordan, F., & Steffen, C. (2025, April 25). The Banks' main plaza now only open to those 21-and-over during weekend nights. WCPO 9 News. https://www.wcpo.com/news/local-news/hamilton-county/cincinnati/the-banks-announces-a-new-policy-limiting-access-to-the-public-plaza-area-for-people-21-years-and-older
 
 **BanksAfter**
 
@@ -380,6 +383,10 @@ Google. (2024, October). Google Maps Street View: 338 W. Fourth Street, Cincinna
 **FilsonBefore**
 
 Google. (2011, September). Google Maps Street View: 338 W. Fourth Street, Cincinnati, Ohio [Street view]. Retrieved from https://maps.google.com
+
+**GuardianHeadline**
+
+Tapper, J. (2025, April 12). ‘I’m super worried’: Fewer UK tourists visiting US amid Trump’s policies and rhetoric. The Guardian. https://www.theguardian.com/travel/2025/apr/12/im-super-worried-fewer-uk-tourists-visiting-us-amid-trumps-policies-and-rhetoric
 
 **HolyGrailAfter**
 
